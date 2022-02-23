@@ -1,0 +1,1 @@
+select 'Test' as test_col
